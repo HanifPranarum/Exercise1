@@ -1,0 +1,148 @@
+.container {
+    width: 95%;
+    padding: 0 px;
+    margin: 0 auto;
+    
+  }
+
+header {
+  height: 80px;
+  width: 100%;
+  background-color: rgba(11, 15, 15, 0.9);
+
+}
+
+.header-left {
+    float: left;
+    color:whitesmoke;
+    padding: 0px 80px 00px 20px;
+    letter-spacing: 10px;
+    font-size: 22px;
+  }
+
+.header-list li{
+  float: left;
+  padding: 35px 30px;
+  color:whitesmoke;
+  list-style: none;
+  font-size: 18px;
+}
+.ninjaimg{
+  width: 25%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.top-wrapper h1{
+  text-align: center;
+  font-size: 120px;
+  letter-spacing: 10px;
+}
+
+.top-wrapper span{
+  color: yellow;
+}
+
+.top-wrapper h2{
+  text-align: center;
+  font-size: 50px;
+  font-weight: normal;
+  color: gray;
+  letter-spacing: 5px;
+}
+
+.desc {
+  background-color: rgb(241, 241, 241);
+  padding: 60px 60px;
+  text-align: center;
+}
+
+.desc h2{
+  margin-bottom: 25px;
+}
+
+.desc p{
+  line-height: 30px;
+  margin-bottom: 25px;
+}
+
+.contents {
+  margin-top: 100px;
+  
+}
+
+.section-title {
+  padding-top: 30px;
+  font-size: 28px;
+  padding-bottom: 15px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.contents-item {
+  float: left;
+  margin: 10px 65px;
+  
+}
+
+.contents-item img{
+  width: 300px;
+
+}
+
+.contents-item p {
+  font-size: 24px;
+  display: block;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.contact-form{
+  padding-top: 500px;
+  text-align: center;
+}
+
+.contact-form h3{
+  font-size: 24px;
+}
+
+.email{
+  width: 500px;
+  margin: 30px;
+}
+
+.message{
+  width: 500px;
+  margin-bottom: 50px;
+  line-height: 30px;
+}
+
+.contact-submit{
+  width: 300px;
+  background-color: rgb(255, 255, 144);
+  margin-bottom: 100px;
+}
+
+.footer {
+  background-color: gray;
+  color: #fff;
+  height: 120px;
+  padding: 40px;
+  font-weight: bold;
+}
+
+.footer-logo {
+  float: left;
+  font-size: 32px;
+  letter-spacing: 10px;
+}
+
+.footer-list {
+  float: right;
+}
+
+.footer-list li {
+  padding-bottom: 20px;
+  list-style: none;
+}
